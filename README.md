@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Niranjan Rathor</h1>
-<h3 align="center">I'm a beginner programmer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Self Niranjan Rathor</h1>
+<h3 align="center">I am looking for an opportunity(Internship) for myself and always ready to learn new things/h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on *Java language*
+- 🔭 I’m currently working on *Full Stack Development*
 
-- 🌱 I’m currently learning *Data Structure & Algorithm*
+- 🌱 I’m currently learning *Python Languages*
 
 - 👨‍💻 Other information go to my website  **www.linkedin.com/in/niranjan-rathor-134093204**
 
 - 📫 How to reach me *niranjanrathor888@gmail.com*
 
-- ⚡ Fun fact **I play games and Watch movies **
+- ⚡ Fun fact **I practice for CP ,watch movies & web series **
 
 ## 🚀 Languages and Tools:
 
