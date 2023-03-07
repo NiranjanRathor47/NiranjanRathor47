@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on *Full Stack Development*
 
-- 🌱 I’m currently learning *CSS Languages*
+- 🌱 I’m currently learning *JS Languages*
 
 - 👨‍💻 Other information go to my website  **www.linkedin.com/in/niranjan-rathor-134093204**
 
