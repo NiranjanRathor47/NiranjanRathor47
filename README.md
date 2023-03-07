@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning *JS Languages*
 
-- 👨‍💻 Other information go to my website  **www.linkedin.com/in/niranjan-rathor-134093204**
+- 👨‍💻 Other information go to my website  **http://127.0.0.1:5500/index.html**
 
 - 📫 How to reach me *niranjanrathor888@gmail.com*
 
-- ⚡ Fun fact **I practice for CP ,watch movies & web series **
+- ⚡ Fun fact **I practice for CP & trading on stock market **
 
 ## 🚀 Languages and Tools:
 
