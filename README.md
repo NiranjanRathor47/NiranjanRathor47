@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on *Full Stack Development*
 
-- 🌱 I’m currently learning *JS Languages*
+- 🌱 I’m currently learning *React.js*
 
 - 👨‍💻 Other information go to my website  **http://127.0.0.1:5500/index.html**
 
