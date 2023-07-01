@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 👨‍💻 Other information go to my website  **http://127.0.0.1:5500/index.html**
+- 👨‍💻 Other information go to my website  **https://personal-portfolio-58w.pages.dev/**
 
 - 📫 How to reach me *niranjanrathor888@gmail.com*
 
