@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on *Full Stack Development*
+- 🔭 I’m currently working on *data science and MLops*
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently learning *NLP,Deep Learning, LLM*
 
 - 👨‍💻 Other information go to my website  **https://personal-portfolio-58w.pages.dev/**
 
